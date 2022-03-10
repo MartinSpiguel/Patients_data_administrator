@@ -223,7 +223,7 @@ def database_connection():
         connection = psycopg2.connect(
             host = 'localhost',
             user = 'postgres',
-            password = 'ladradorcriollo718',
+            password = 'helloworld',
             database = 'patients',
             port='5432'
         )
